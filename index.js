@@ -9,4 +9,4 @@ function calculatePower(number, power) {
     return "the power of given number is :", result
   }
   
-// module.exports = reverseString
+module.exports = reverseString
